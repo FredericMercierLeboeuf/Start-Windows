@@ -27,3 +27,4 @@ This project explores the integration of a fictional AI into real technical inte
 
 Tu veux qu’on continue à traduire le reste ou enrichir ce passage avec des visuels, badges ou un encadré markdown complet pour ton README? Ce dépôt va avoir du style, c’est certain 😎.
 
+*🤖 Ce projet a été développé avec l’assistance de Copilot, intelligence artificielle de Microsoft. Elle n’a pas de mains, mais beaucoup d’idées.*
